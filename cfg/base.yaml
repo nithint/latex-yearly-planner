@@ -1,6 +1,6 @@
 weekstart: 1
 ampmtime: false
-dotted: true
+dotted: false
 calafterschedule: false
 addlasthalfhour: true
 
@@ -35,6 +35,8 @@ layout:
     todolinesintodopage: 10
     notesindexpages: 3
     notesonpage: 35
+    todosindexpages: 3
+    todosonpage: 35
     dotheightfull: 36
     dotwidthfull: 30
     dotwidthtwothirds: 20
